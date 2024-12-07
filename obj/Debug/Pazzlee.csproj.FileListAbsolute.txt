@@ -1,0 +1,12 @@
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\bin\Debug\Pazzlee.exe.config
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\bin\Debug\Pazzlee.exe
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\bin\Debug\Pazzlee.pdb
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.csproj.AssemblyReference.cache
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.General.resources
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.Properties.Resources.resources
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.csproj.GenerateResource.cache
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.csproj.CoreCompileInputs.cache
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.exe
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.pdb
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.Sobirati.resources
+C:\Users\37529\OneDrive\Рабочий стол\Pazzlee\obj\Debug\Pazzlee.Sborka.resources
